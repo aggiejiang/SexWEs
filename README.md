@@ -10,7 +10,16 @@ The goal of sexism detection is to mitigate negative online content targeting ce
 
 ## SexWEs resources
 
-All specialised Chinese sexist word embeddings are [available]()
+All specialised Chinese sexist word embeddings are available [here](https://drive.google.com/drive/folders/1flKSTZBQCop-kRFBoYayg2-3y6gF5JJr?usp=sharing)
+
+`sexwes.zh.txt` - SexWEs specialised by both general and domain constraints, fusing external domain-specific target pairs
+
+`sexwes.zh.no.external.txt` - SexWEs specialised by both general and domain constraints without external domain-specific target pairs
+
+`sexwes.zh.general.txt` - SexWEs specialised by general constraints
+
+`sexwes.zh.domain.txt` - SexWEs specialised by domain constraints     
+
 
 ## Reference
 
