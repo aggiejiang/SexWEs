@@ -2,7 +2,7 @@
 
 Aiqi Jiang, Arkaitz Zubiaga. SexWEs: Domain-Aware Word Embeddings via Cross-lingual Semantic Specialisation for Chinese Sexism Detection in Social Media. In Proceedings of the 17th International AAAI Conference on Web and Social Media (ICWSM 2023).
 
-Please check our paper for more details [here]([https://arxiv.org/abs/2211.08447](https://ojs.aaai.org/index.php/ICWSM/article/view/22159).
+Please check our paper for more details [here](https://ojs.aaai.org/index.php/ICWSM/article/view/22159).
 
 ## Abstract
 
